@@ -1,0 +1,11 @@
+# Root Gitignore
+node_modules/
+target/
+dist/
+.env
+.DS_Store
+*.log
+.idea/
+.vscode/
+*.iml
+
